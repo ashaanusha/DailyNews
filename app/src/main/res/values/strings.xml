@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Daily news</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="languages">
+        <item>telugu</item>
+        <item>English</item>
+        <item>Tamil</item>
+        <item>Malayalam</item>
+        <item>Hindi</item>
+    </string-array>
+    <string-array name="Categories">
+        <item>Bussiness</item>
+        <item>Sports</item>
+        <item>Entertainment</item>
+        <item>Politics</item>
+        <item>Travel</item>
+        <item>Automobiles</item>
+        <item>Science</item>
+    </string-array>
+</resources>
